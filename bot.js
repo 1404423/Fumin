@@ -18,4 +18,4 @@ process.on('message', function(content) {
 
 }
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.Mzk1MTc4NTg0NTc2MjI5Mzc2.DSaf0Q.Tlymm08FYqY9p4pwVQNPgp593fw);
